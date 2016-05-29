@@ -5,7 +5,7 @@ testrepo
 # This is my data science profile, edited to reflect slightly lower self ratings after several weeks of this class
 
 Rank    Skill
-1       Computer Programming
+1     Computer Programming
 2       Math
 1       Statistics
 1       Machine learning
